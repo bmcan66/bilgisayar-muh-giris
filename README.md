@@ -19,7 +19,7 @@
 
 ### 🛠️ Kullandığım Teknolojiler
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
 ---
